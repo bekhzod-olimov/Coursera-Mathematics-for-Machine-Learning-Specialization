@@ -4,7 +4,7 @@ This repository contains my solutions to all the materials, namely quizes and pr
 
 
 ## Contents
-### COURSE-1: Mathematics for Machine Learning: Linear Algebra
+#### COURSE-1: Mathematics for Machine Learning: Linear Algebra
 
 - #### week-1: Introduction to Linear Algebra and to Mathematics for Machine Learning
 
@@ -17,7 +17,7 @@ This repository contains my solutions to all the materials, namely quizes and pr
 - #### week-5: Eigenvalues and Eigenvectors: Application to Data Problems
 
 
-### COURSE-2: Mathematics for Machine Learning: Multivariate Calculus
+#### COURSE-2: Mathematics for Machine Learning: Multivariate Calculus
 
 - #### week-1: Functions, gradients and derivatives
 
@@ -32,7 +32,7 @@ This repository contains my solutions to all the materials, namely quizes and pr
 - #### week-6: Regression
 
 
-### COURSE-3: Mathematics for Machine Learning: PCA 
+#### COURSE-3: Mathematics for Machine Learning: PCA 
 - #### week-1: Statistics of Datasets
 
 - #### week-2: Inner Products
