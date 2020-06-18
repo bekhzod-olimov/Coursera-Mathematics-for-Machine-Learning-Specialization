@@ -1,6 +1,6 @@
 # Mathematics for Machine Learning Specialization by Imperial College London
 
-This repository contains my solutions to all the materials, namely quizes and programming assignments of the [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning?) specialization courses conducted by prof. David Dye, prof. Samuel J. Cooper, and prof. Marc Peter Deisenroth. Anyone can freely use the contents of the repository. Please, contact me if you have further questions related to the contents.
+This repository contains my solutions to all the materials, namely quizes and programming assignments of the [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning?) specialization course conducted by prof. David Dye, prof. Samuel J. Cooper, and prof. Marc Peter Deisenroth. Anyone can freely use the contents of the repository. Please, contact me if you have further questions related to the contents.
 
 
 ## Contents
